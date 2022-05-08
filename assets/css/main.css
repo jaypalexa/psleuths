@@ -25,6 +25,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: smaller !important;
 }
 
+.item-text {
+  min-width: 300px;
+}
+
 .justify-content-center {
   justify-content: center !important;
 }
